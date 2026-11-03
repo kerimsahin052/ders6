@@ -1,1 +1,1 @@
-https://ders6-two.vercel.app/events
+https://ders6-two.vercel.app
